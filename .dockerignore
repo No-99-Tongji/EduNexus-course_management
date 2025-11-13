@@ -42,7 +42,6 @@ HELP.md
 DOCKER_DEPLOY.md
 
 # Docker
-Dockerfile
 .dockerignore
 docker-compose.yml
 docker-compose.*.yml
